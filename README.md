@@ -4,7 +4,7 @@ This is my take on the Starbie project from Halflife Week 1. The basic component
 
 I used the Starbie firmware as a base for my project, but made some changes to it to make it more interesting. I added my own sprite instead of the one already present, as well as a sleeping variation for when the pet sleeps.
 
-![]() ![]()
+![](https://github.com/viywolf/Halflife/blob/main/starbie.png) ![](https://github.com/viywolf/Halflife/blob/main/starbie_nap.png)
 
 I also added some of my own visuals to it, namely, a spinny pattern that cycles through | / - \. I also added an emoji display that reflects the status of the pet (e.g, if it's joy, energy, fullness is high, it does a happy face, whereas if it's low, it does a sad face). I do not have the physical board yet so this will certainly not work properly, and I will have to come back to this and edit it later.
 
